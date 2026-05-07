@@ -5,11 +5,11 @@
 
 
 <h2><b>🚀 About Me</b></h2>
-- 🎓 Interested in Data and Business Analytics and Data-Driven Decision Making
-- 💡 Passionate about transforming raw data into meaningful insights
-- 📈 Love learning new tools
-- 🎤 Have good communication skills
-- 🚀 Currently improving my knowledge in business domain
+<li> 🎓 Interested in Data and Business Analytics and Data-Driven Decision Making</li>
+<li>  💡 Passionate about transforming raw data into meaningful insights</li> 
+<li>  📈 Love learning new tools </li>
+<li>  🎤 Have good communication skills  </li>
+<li>  🚀 Currently improving my knowledge in business domain</li>  
 
 
 <h2><b>🛠️ Skills & Tools</b></h2>
@@ -34,6 +34,11 @@
 
 
 <h2><b>📊 Projects</b></h2>
+
+### Customer Churn Prediction & Analysis
+- Performed data cleaning, feature engineering, and exploratory data analysis on telecom customer data to identify key churn drivers.
+- Analyzed customer behavior patterns across tenure, contract type, monthly charges, and service usage using visualizations and statistical insights.
+- Built a Logistic Regression model to predict customer churn and support customer retention strategies.
 
 ### Superstore Sales Analysis
 - Cleaned and modeled 9000+ sales records
